@@ -173,3 +173,48 @@ Day 5 ensured the marketplace is **secure, optimized, and deployment-ready**. Al
 MIT License  
 
 Happy Coding! 🚀
+
+# 🚀 Marketplace Builder Hackathon 2025 – Day 6  
+
+## 🎯 Objective  
+Prepare for deployment by setting up a **staging environment** to simulate production.  
+
+## ✅ Key Steps  
+- ✔️ **Deployment Planning** – Structured deployment process.  
+- ✔️ **Environment Variables** – Secured sensitive data.  
+- ✔️ **Staging Setup** – Created a production-like test environment.  
+- ✔️ **Testing** – Conducted functionality, performance, and error-handling tests.  
+- ✔️ **Documentation** – Updated test reports and deployment guides.  
+
+## 🏁 Conclusion  
+The **staging environment** ensures a **risk-free deployment**, helping identify potential issues before the **live release**. 🚀  
+
+## 📜 License  
+MIT License  
+
+Happy Coding! 🚀
+
+# 🚀 Marketplace Builder Hackathon 2025 – Day 7  
+
+## 🎯 Objective  
+Successfully deploy the **Bandage eCommerce website** and establish post-launch monitoring and optimizations.  
+
+## ✅ Key Features  
+- **Authentication** – Email/Password (MongoDB), Google, GitHub, YouTube.  
+- **E-Commerce** – Add to Cart, Wishlist, Product Details, Category-Based Filtering.  
+- **User Profile** – Dynamic routing with order history.  
+- **Shipping** – Real-time tracking via **ShipEngine**.  
+- **Payment** – Secure **Stripe** transactions.  
+
+## 🚀 Deployment & Monitoring  
+- **Live Now** – Scalable hosting with performance tracking.  
+- **Monitoring** – Continuous performance and security checks.  
+- **Post-Launch** – Regular updates and UI/UX improvements.  
+
+## 🌍 Visit Bandage Store  
+Bandage is built for a **secure & engaging shopping experience**. More updates coming soon! 🚀🔥  
+
+## 📜 License  
+MIT License  
+
+Happy Coding! 🚀
